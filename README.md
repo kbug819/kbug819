@@ -7,7 +7,7 @@
 <div align="center">
 <h3>Dedicated&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hard-working&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kind </h3><br>
 
-**Backend developer with previous experience in nonprofit and nonprofit mangagement.** <br><br>
+**Software developer with previous experience in nonprofit and nonprofit mangagement.** <br><br>
   
 **Currently working on: &nbsp;&nbsp;&nbsp; [Market Next Door](https://github.com/Market-Next-Door/market_nextdoor_api)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[State Park Partners Website](https://github.com/State-Park-Partners-Website)**
 <br>
