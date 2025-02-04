@@ -10,7 +10,6 @@
 **Software developer with previous experience in nonprofit and nonprofit mangagement.** <br><br>
 
 <br>
-<br>
 
 **Expertise in: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="60" height="60" />** <br><br>
 **Currently Learning:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60"/><br><br><br>
